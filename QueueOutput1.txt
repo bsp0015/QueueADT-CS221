@@ -1,0 +1,15 @@
+Queue is empty.
+Length of queue is: 0
+food 300.5 was added to queue
+gas 60 was added to queue
+book 89.99 was added to queue
+computer 699 was added to queue
+Length of queue is: 4
+The total expenses are: 1149.49
+food 300.5 was removed from queue
+gas 60 was removed from queue
+Length of queue is: 2
+The total expenses are: 788.99
+rent 850 was added to queue
+internet 29.99 was added to queue
+utility 178.3 was added to queue
